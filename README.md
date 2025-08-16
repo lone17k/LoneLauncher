@@ -3,8 +3,8 @@
 A **minimalist Android launcher** inspired by the iconic **Zune interface**,  
 reimagined with modern **Jetpack Compose**, smooth animations, and extra features.  
 
-The goal: capture the **retro Zune vibe** — clean typography, monochrome design, and focus on essentials —  
-while adding practical tools for daily use.  
+⚠️ **Disclaimer:** This project is **not affiliated with Microsoft**.  
+The word *Zune* is used only to describe the design inspiration.
 
 ---
 
@@ -18,7 +18,7 @@ while adding practical tools for daily use.
 - ⭐ **Favorites List** → quick access to apps, styled with custom font
 - 🔔 **Unread Notifications Count** (planned)
 - 🖐 **Gesture Navigation** → swipe up (app search), swipe left/right (custom actions), long press (settings)
-- 🎨 **Monochrome Theme** → Zune-like dark mode as default
+- 🎨 **Monochrome Theme** →  dark mode as default
 
 ---
 
@@ -60,73 +60,29 @@ The idea is to **make the home screen feel like an art piece**, but still functi
 - **Material 3**
 - **Coroutines & Flows**
 - **Open Meteo API** (weather)  
-- **Quotable API** (quotes)  
-
----
----
-
-## ✅ Completed
-
-- ⏰ Time & Date (styled large time + small AM/PM)  
-- 🔋 Animated Battery Bar (retro-style, charging glow)  
-- 🌦 Weather Widget (API-powered, retro icons ☀ 🌧 ❄)  
-- 💡 Daily Quotes (API + fallback collection)  
-- ⭐ Favorites List (custom font, monochrome design)  
-- 🖐 Gesture Navigation (swipe + long press actions)  
 
 ---
 
-## ⏳ In Progress
+## 🚀 Roadmap
 
-- [ ] Drag & Drop reordering of favorites  
-- [ ] Hide system status bar fully  
-- [ ] Battery percentage auto-color (contrast-aware)  
-
----
-
-## 🎯 Planned Features
-
-- [ ] **Unread Notifications Count** → small indicator near apps  
-- [ ] **Now Playing Widget** → Zune-style music integration 🎶  
-- [ ] **Custom Themes** → Zune brown/orange + monochrome modes  
-- [ ] **Search Improvements** → fuzzy search, voice search  
-- [ ] **Settings Menu Expansion** → toggles for quotes/weather  
-- [ ] **Backup/Restore Favorites**  
+- [x] Time & Date  
+- [x] Battery bar (animated when charging)  
+- [x] Weather widget  
+- [x] Daily quotes  
+- [x] Favorites list  
+- [ ] Drag & drop reorder favorites  
+- [ ] Unread notifications count  
+- [ ] Music integration (maybe a Zune-like Now Playing widget 🎶)  
+- [ ] Theming (Zune brown/orange + monochrome modes)  
 
 ---
 
-## 💡 Ideas Under Consideration
+## 🤝 Contributing
 
-- Widgets marketplace for Zune-style add-ons  
-- System info widget (CPU %, RAM, etc.) in retro text  
-- Minimal lock screen replacement  
-- Support for custom fonts & typography packs  
+Contributions are welcome and encouraged 🎉  
 
----
+- Found a bug? Open an issue 🐛  
+- Have an idea? Create a feature request 💡  
+- Want to improve code or UI? Submit a pull request 🔧  
 
-📌 **Note:** This roadmap is flexible. Contributions can shift priorities! 
-
-# 🤝 Contributing to Lone Launcher
-
-Thank you for considering contributing to **Lone Launcher** 🎶  
-This project is built with the community in mind, and we’d love your help to make it better!
-
----
-
-## 🛠 Ways to Contribute
-
-- **Report bugs** 🐛 → Open an [issue](../../issues) with details.  
-- **Suggest features** 💡 → Share your ideas via a feature request.  
-- **Improve code** 🔧 → Refactor, clean up, or add missing functionality.  
-- **UI/UX tweaks** 🎨 → Propose changes that enhance the retro Zune vibe.  
-- **Documentation** 📄 → Fix typos, add clarifications, or improve guides.
-
----
-
-## 🛠️ Build & Install
-
-Clone this repo:
-
-```bash
-git clone https://github.com/lone17k/LoneLauncher.git
-cd LoneLauncher
+Let’s build a **launcher together** ✨
