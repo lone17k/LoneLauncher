@@ -86,3 +86,4 @@ Contributions are welcome and encouraged 🎉
 - Want to improve code or UI? Submit a pull request 🔧  
 
 Let’s build a **launcher together** ✨
+![Screenshot_20250815_214253](https://github.com/user-attachments/assets/a388cd02-7f84-4315-a1e4-ae5055a58379)
